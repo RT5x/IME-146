@@ -1,0 +1,29 @@
+
+
+Codes that begin with G are
+called ___________ words
+because they prepare the
+machine for a certain type of
+motion.
+G00 – Rapid Motion
+• G01 – Linear Interpolation
+• G02 & G03 - Circular Interpolation
+• G28 - Return Home
+• G54-G59 - Home Locations
+• G90 - Absolute Positioning
+• G91 - Incremental Positioning
+Industrial & Manufacturing Engineering Department
+
+
+M Codes
+• M Codes are called
+___________ words.
+• Control machine auxiliary options
+like coolant and spindle direction.
+• Only one M-code can appear in
+each block of code.
+• M03 – Spindle On Clockwise
+• M06 – Tool Change
+• M08 – Turn Coolant On
+• M09 – Turn Coolant Off
+
