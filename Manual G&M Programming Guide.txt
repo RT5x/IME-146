@@ -1,7 +1,7 @@
 
 
 Codes that begin with G are
-called ___________ words
+called prepatory functions
 because they prepare the
 machine for a certain type of
 motion.
@@ -17,7 +17,7 @@ Industrial & Manufacturing Engineering Department
 
 M Codes
 • M Codes are called
-___________ words.
+miscellaneous functions.
 • Control machine auxiliary options
 like coolant and spindle direction.
 • Only one M-code can appear in
