@@ -1,6 +1,6 @@
 
-
-Codes that begin with G are
+G Codes
+• Codes that begin with G are
 called prepatory functions
 because they prepare the
 machine for a certain type of
