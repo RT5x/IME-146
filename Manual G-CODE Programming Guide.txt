@@ -9,8 +9,9 @@ motion.
 • G01 – Linear Interpolation             (Cutting in a Straight/contour Line, needs feed rate provided)
 • G02 & G03 - Circular Interpolation     (Cutting an arc or circle (G02 - clockwise). Needs a feed rate value (in/min) specified)
 • G28 - Return Home
+• G43 - Tool Length Offset
 • G54-G59 - Home Locations
-• G90 - Absolute Positioning
+• G90 - Absolute Positioning             (G54 = WCS "fixture offset")
 • G91 - Incremental Positioning
 
 M Codes
