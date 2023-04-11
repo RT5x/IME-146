@@ -12,8 +12,6 @@ motion.
 • G54-G59 - Home Locations
 • G90 - Absolute Positioning
 • G91 - Incremental Positioning
-Industrial & Manufacturing Engineering Department
-
 
 M Codes
 • M Codes are called
