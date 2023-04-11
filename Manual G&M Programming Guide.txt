@@ -5,7 +5,7 @@ called ___________ words
 because they prepare the
 machine for a certain type of
 motion.
-G00 – Rapid Motion
+• G00 – Rapid Motion
 • G01 – Linear Interpolation
 • G02 & G03 - Circular Interpolation
 • G28 - Return Home
